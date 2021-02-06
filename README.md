@@ -4,8 +4,8 @@
 - Ebtisam Alrehili 
 - Aljowhara Alblaihed
 ---
-### In this project we work on  [Saudi Airbnb Price Prediction](github.com/gumdropsteve/intro_to_machine_learning/tree/main/day_10/data).
-[Data Dictionary ](github.com/gumdropsteve/intro_to_machine_learning/tree/main/day_10/data/README.MD)
+### In this project we work on  [Saudi Airbnb Price Prediction](https://github.com/gumdropsteve/intro_to_machine_learning/blob/main/day_10/data/jeddah.parquet).
+[Data Dictionary ](https://github.com/gumdropsteve/intro_to_machine_learning/tree/main/day_10/data)
 
 ### First: Exploratory data analysis(EDA):
 - we noticed that the most Type is Entire apartment.
