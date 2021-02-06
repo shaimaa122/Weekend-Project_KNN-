@@ -12,5 +12,8 @@
 - Most of peoples pied less than 2000 RS for most types 9000 for Entire serviced apartment type.
 - The price based on guests,	bedrooms,	beds and many services.
 
-### Second: Build KNeighborsRegressor Model and Improve it:
-We remove the duplicate data ,we noticed some null values and replace it, we extract Categorical features, we split our data to test and train data then make baseline model,then build the KNeighborsRegressor model and improve it by best parameters.
+### Second: Data prep:
+We remove the duplicate data ,we noticed some null values and replace it then we extract Categorical features.
+
+### Third: Build KNeighborsRegressor Model and Improve it:
+We split our data to test and train data then make baseline model,then build the KNeighborsRegressor model and improve it by best parameters.
