@@ -1,1 +1,16 @@
-# Weekend-Project_KNN-
+# Weekend-Project_KNN
+### Group members:
+- Shaima Alharbi 
+- Ebtisam Alrehili 
+- Aljowhara Alblaihed
+---
+### In this project we work on  [Saudi Airbnb Price Prediction](github.com/gumdropsteve/intro_to_machine_learning/tree/main/day_10/data).
+[Data Dictionary ](github.com/gumdropsteve/intro_to_machine_learning/tree/main/day_10/data/README.MD)
+
+### First: Exploratory data analysis(EDA):
+- we noticed that the most Type is Entire apartment.
+- Most of peoples pied less than 2000 RS for most types 9000 for Entire serviced apartment type.
+- The price based on guests,	bedrooms,	beds and many services.
+
+### Second: Build KNeighborsRegressor Model and Improve it:
+We remove the duplicate data ,we noticed some null values and replace it, we extract Categorical features, we split our data to test and train data then make baseline model,then build the KNeighborsRegressor model and improve it by best parameters.
