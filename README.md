@@ -9,7 +9,7 @@
 
 ### First: Exploratory data analysis(EDA):
 - We noticed that the most Type is Entire apartment.
-- Most of peoples pied less than 2000 RS for most types 9000 for Entire serviced apartment type.
+- Most of guests pay less than 2000 RS for most types 9000 for Entire serviced apartment type.
 - The price based on guests,	bedrooms,	beds and many services.
 
 ### Second: Data prep:
