@@ -8,7 +8,7 @@
 [Data Dictionary ](https://github.com/gumdropsteve/intro_to_machine_learning/tree/main/day_10/data)
 
 ### First: Exploratory data analysis(EDA):
-- we noticed that the most Type is Entire apartment.
+- We noticed that the most Type is Entire apartment.
 - Most of peoples pied less than 2000 RS for most types 9000 for Entire serviced apartment type.
 - The price based on guests,	bedrooms,	beds and many services.
 
